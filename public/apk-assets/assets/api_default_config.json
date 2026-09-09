@@ -1,0 +1,14 @@
+{
+  "host": "https://www.xenalive.me",
+  "mobile_host":"https://m-hw.xenalive.me",
+  "file_host": "https://cdn-hw.xenalive.me",
+  "im_host": "https://gim.xenalive.me/imssoaddr/ssoaddr",
+  "http_host":"https://api-hw.xenalive.me",
+  "event_host": "https://api-hw.xenalive.me",
+  "apm_event_host": "https://api-hw.xenalive.me",
+  "upload_file_host": "https://api-hw.xparty.me",
+  "blued_host": "https://api-hw.xenalive.me",
+  "pay_center_host": "https://api-hw.xenalive.me",
+  "feedback_email": "contact@xenalive.me",
+  "grpc_host": "rpc-hw.xenalive.me:443"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "xena-web-1to1",
+  "version": "1.0.26",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/index.js",
+    "check": "node --check server/index.js && node --check public/app.js && node --check tests/smoke.js",
+    "smoke": "node tests/smoke.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0",
+    "pg": "^8.16.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

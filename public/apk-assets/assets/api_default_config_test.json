@@ -1,0 +1,12 @@
+{
+  "host": "https://www.xenalive.me",
+  "mobile_host": "https://m-test-hw.xparty.me",
+  "file_host": "https://m-test-hw.xparty.me",
+  "grpc_host": "rpc-test-hw.xenalive.me:443",
+  "im_host": "https://gim-test.xenalive.me/imssoaddr/ssoaddr",
+  "event_host": "https://api-test-hw.xenalive.me",
+  "apm_event_host": "https://api-test-hw.xenalive.me",
+  "upload_file_host": "https://api-test-hw.xparty.me",
+  "blued_host": "https://api-test-hw.xenalive.me",
+  "pay_center_host": "https://api-test-hw.xenalive.me"
+}

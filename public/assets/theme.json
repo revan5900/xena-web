@@ -1,0 +1,59 @@
+{
+  "refreshEffect": {
+    "animationFrame": [
+      "refreshEffect1.png",
+      "refreshEffect2.png",
+      "refreshEffect3.png",
+      "refreshEffect4.png",
+      "refreshEffect5.png",
+      "refreshEffect6.png"
+    ]
+  },
+  "mainTabBar": {
+    "imgIdNormal": "HomeByTab.png",
+    "imgIdSelected": "HomeByTabClick.png",
+    "imgRefresh": ""
+  },
+  "exploreTabBar": {
+    "imgIdNormal": "ExploreByTab.png",
+    "imgIdSelected": "ExploreByTabClick.png"
+  },
+  "chatTabBar": {
+    "imgIdNormal": "ChatByTab.png",
+    "imgIdSelected": "ChatByTabClick.png"
+  },
+  "meTabBar": {
+    "imgIdNormal": "MeByTab.png",
+    "imgIdSelected": "MeByTabClick.png"
+  },
+  "mainBottomImg": {
+    "backgroundImage": "TabBackgroundBottom.png"
+  },
+  "mainTopImg": {
+    "backgroundImage": "TabBackground.png"
+  },
+  "mainPageSegmented": {
+    "textColor": "#FEFFCB"
+  },
+  "mainPageSearchBtn": {
+    "imgIdNormal": "Search.png"
+  },
+  "mainPageRoomBtn": {
+    "imgIdNormal": "HomeLiveCreate.png",
+    "imgIdSelected": "HomeLiveOn.pnb"
+  },
+  "explorePageSegmented": {
+    "textColor": "#FEFFCB"
+  },
+  "explorePageBoardBtn": {
+    "imgIdNormal": "ExploreRanking.png"
+  },
+  "chatPageMoodButton": {
+    "backgroundColor": "#0D2AFFD5",
+    "textColor": "#FEFFCB",
+    "imgIdNormal": "ChatStatus.png"
+  },
+  "chatListButton": {
+    "imgIdNormal": "ChatList.png"
+  }
+}

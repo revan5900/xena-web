@@ -1,0 +1,650 @@
+[
+  {
+    "path": "/assets/main_tab_vip.pag",
+    "name": "main_tab_vip.pag",
+    "ext": ".pag",
+    "size": 36407
+  },
+  {
+    "path": "/assets/live_blue_lightning_bmp.pag",
+    "name": "live_blue_lightning_bmp.pag",
+    "ext": ".pag",
+    "size": 119944
+  },
+  {
+    "path": "/assets/live_private_link_dialog_bg.pag",
+    "name": "live_private_link_dialog_bg.pag",
+    "ext": ".pag",
+    "size": 306004
+  },
+  {
+    "path": "/assets/WebViewJavascriptBridge.js",
+    "name": "WebViewJavascriptBridge.js",
+    "ext": ".js",
+    "size": 7043
+  },
+  {
+    "path": "/assets/live_private_link_calling_icon.pag",
+    "name": "live_private_link_calling_icon.pag",
+    "ext": ".pag",
+    "size": 31584
+  },
+  {
+    "path": "/assets/anim_chat_loading.json",
+    "name": "anim_chat_loading.json",
+    "ext": ".json",
+    "size": 3605
+  },
+  {
+    "path": "/assets/pk_win.pag",
+    "name": "pk_win.pag",
+    "ext": ".pag",
+    "size": 18130
+  },
+  {
+    "path": "/assets/vip_dynamic_avatar_sample.pag",
+    "name": "vip_dynamic_avatar_sample.pag",
+    "ext": ".pag",
+    "size": 128445
+  },
+  {
+    "path": "/assets/live_link_dialog_bg.pag",
+    "name": "live_link_dialog_bg.pag",
+    "ext": ".pag",
+    "size": 311584
+  },
+  {
+    "path": "/assets/live_icon_private_link_icon.pag",
+    "name": "live_icon_private_link_icon.pag",
+    "ext": ".pag",
+    "size": 1713
+  },
+  {
+    "path": "/assets/load_more.json",
+    "name": "load_more.json",
+    "ext": ".json",
+    "size": 3133
+  },
+  {
+    "path": "/assets/pk_result_lose_bmp.pag",
+    "name": "pk_result_lose_bmp.pag",
+    "ext": ".pag",
+    "size": 94014
+  },
+  {
+    "path": "/assets/mobile.v2.28.2.html",
+    "name": "mobile.v2.28.2.html",
+    "ext": ".html",
+    "size": 45982
+  },
+  {
+    "path": "/assets/live_red_lightning_bmp.pag",
+    "name": "live_red_lightning_bmp.pag",
+    "ext": ".pag",
+    "size": 131966
+  },
+  {
+    "path": "/assets/audio_room_free_seat_guide_2.pag",
+    "name": "audio_room_free_seat_guide_2.pag",
+    "ext": ".pag",
+    "size": 135753
+  },
+  {
+    "path": "/assets/api_default_config_test.json",
+    "name": "api_default_config_test.json",
+    "ext": ".json",
+    "size": 510
+  },
+  {
+    "path": "/assets/asset_audio_room_music_disc.json",
+    "name": "asset_audio_room_music_disc.json",
+    "ext": ".json",
+    "size": 9347
+  },
+  {
+    "path": "/assets/live_guide_like.pag",
+    "name": "live_guide_like.pag",
+    "ext": ".pag",
+    "size": 83852
+  },
+  {
+    "path": "/assets/apiconfig.json",
+    "name": "apiconfig.json",
+    "ext": ".json",
+    "size": 652
+  },
+  {
+    "path": "/assets/bigsmily.json",
+    "name": "bigsmily.json",
+    "ext": ".json",
+    "size": 3012
+  },
+  {
+    "path": "/assets/anim_game_point_quick_bg.pag",
+    "name": "anim_game_point_quick_bg.pag",
+    "ext": ".pag",
+    "size": 2412
+  },
+  {
+    "path": "/assets/PK_icon_bmp.pag",
+    "name": "PK_icon_bmp.pag",
+    "ext": ".pag",
+    "size": 24290
+  },
+  {
+    "path": "/assets/supplierconfig.json",
+    "name": "supplierconfig.json",
+    "ext": ".json",
+    "size": 136
+  },
+  {
+    "path": "/assets/play_loading_anim.pag",
+    "name": "play_loading_anim.pag",
+    "ext": ".pag",
+    "size": 1393
+  },
+  {
+    "path": "/assets/ConthraxSemiBold.otf",
+    "name": "ConthraxSemiBold.otf",
+    "ext": ".otf",
+    "size": 77528
+  },
+  {
+    "path": "/assets/match_half_time_anim.pag",
+    "name": "match_half_time_anim.pag",
+    "ext": ".pag",
+    "size": 102328
+  },
+  {
+    "path": "/assets/live_float.json",
+    "name": "live_float.json",
+    "ext": ".json",
+    "size": 27276
+  },
+  {
+    "path": "/assets/cohost_icon_bmp.pag",
+    "name": "cohost_icon_bmp.pag",
+    "ext": ".pag",
+    "size": 70583
+  },
+  {
+    "path": "/assets/game_point_get_money_anim.pag",
+    "name": "game_point_get_money_anim.pag",
+    "ext": ".pag",
+    "size": 181291
+  },
+  {
+    "path": "/assets/pk_result_lose_bmp_2p.pag",
+    "name": "pk_result_lose_bmp_2p.pag",
+    "ext": ".pag",
+    "size": 659470
+  },
+  {
+    "path": "/assets/rank_enter.pag",
+    "name": "rank_enter.pag",
+    "ext": ".pag",
+    "size": 41475
+  },
+  {
+    "path": "/assets/heart.pag",
+    "name": "heart.pag",
+    "ext": ".pag",
+    "size": 1923
+  },
+  {
+    "path": "/assets/login_x.pag",
+    "name": "login_x.pag",
+    "ext": ".pag",
+    "size": 184100
+  },
+  {
+    "path": "/assets/pk_fail.pag",
+    "name": "pk_fail.pag",
+    "ext": ".pag",
+    "size": 11467
+  },
+  {
+    "path": "/assets/lucky_gift_tip_view_multiple_anim.pag",
+    "name": "lucky_gift_tip_view_multiple_anim.pag",
+    "ext": ".pag",
+    "size": 35110
+  },
+  {
+    "path": "/assets/aladdin.svga",
+    "name": "aladdin.svga",
+    "ext": ".svga",
+    "size": 412101
+  },
+  {
+    "path": "/assets/game_point_get_money_anim_big.pag",
+    "name": "game_point_get_money_anim_big.pag",
+    "ext": ".pag",
+    "size": 158391
+  },
+  {
+    "path": "/assets/match_away_goal_anim.pag",
+    "name": "match_away_goal_anim.pag",
+    "ext": ".pag",
+    "size": 471969
+  },
+  {
+    "path": "/assets/moment_follow.pag",
+    "name": "moment_follow.pag",
+    "ext": ".pag",
+    "size": 1174
+  },
+  {
+    "path": "/assets/theme.json",
+    "name": "theme.json",
+    "ext": ".json",
+    "size": 1346
+  },
+  {
+    "path": "/assets/live_video_loading.pag",
+    "name": "live_video_loading.pag",
+    "ext": ".pag",
+    "size": 17698
+  },
+  {
+    "path": "/assets/audio_apply_sit_down_anim.pag",
+    "name": "audio_apply_sit_down_anim.pag",
+    "ext": ".pag",
+    "size": 756
+  },
+  {
+    "path": "/assets/api_default_config.json",
+    "name": "api_default_config.json",
+    "ext": ".json",
+    "size": 557
+  },
+  {
+    "path": "/assets/swipedown.svga",
+    "name": "swipedown.svga",
+    "ext": ".svga",
+    "size": 4963
+  },
+  {
+    "path": "/assets/pk_result_win_bmp.pag",
+    "name": "pk_result_win_bmp.pag",
+    "ext": ".pag",
+    "size": 89660
+  },
+  {
+    "path": "/assets/sobotphonecode.json",
+    "name": "sobotphonecode.json",
+    "ext": ".json",
+    "size": 25400
+  },
+  {
+    "path": "/assets/logo_login_anim_2.svga",
+    "name": "logo_login_anim_2.svga",
+    "ext": ".svga",
+    "size": 30952
+  },
+  {
+    "path": "/assets/rank_particle.pag",
+    "name": "rank_particle.pag",
+    "ext": ".pag",
+    "size": 5257
+  },
+  {
+    "path": "/assets/HOST.json",
+    "name": "HOST.json",
+    "ext": ".json",
+    "size": 8709
+  },
+  {
+    "path": "/assets/pk_draw.pag",
+    "name": "pk_draw.pag",
+    "ext": ".pag",
+    "size": 17330
+  },
+  {
+    "path": "/assets/moment_like.pag",
+    "name": "moment_like.pag",
+    "ext": ".pag",
+    "size": 2821
+  },
+  {
+    "path": "/assets/live_pk_start_bmp.pag",
+    "name": "live_pk_start_bmp.pag",
+    "ext": ".pag",
+    "size": 577330
+  },
+  {
+    "path": "/assets/Enjoy.json",
+    "name": "Enjoy.json",
+    "ext": ".json",
+    "size": 10479
+  },
+  {
+    "path": "/assets/live_pk_light_out.pag",
+    "name": "live_pk_light_out.pag",
+    "ext": ".pag",
+    "size": 5917
+  },
+  {
+    "path": "/assets/login.pag",
+    "name": "login.pag",
+    "ext": ".pag",
+    "size": 2800370
+  },
+  {
+    "path": "/assets/match_end_win_anim.pag",
+    "name": "match_end_win_anim.pag",
+    "ext": ".pag",
+    "size": 345365
+  },
+  {
+    "path": "/assets/email_usual_domain.json",
+    "name": "email_usual_domain.json",
+    "ext": ".json",
+    "size": 250
+  },
+  {
+    "path": "/assets/checkin_result.pag",
+    "name": "checkin_result.pag",
+    "ext": ".pag",
+    "size": 1688
+  },
+  {
+    "path": "/assets/xy_win_light_anim.pag",
+    "name": "xy_win_light_anim.pag",
+    "ext": ".pag",
+    "size": 5590
+  },
+  {
+    "path": "/assets/anim_profile_living.json",
+    "name": "anim_profile_living.json",
+    "ext": ".json",
+    "size": 6078
+  },
+  {
+    "path": "/assets/logo_login_anim_1.svga",
+    "name": "logo_login_anim_1.svga",
+    "ext": ".svga",
+    "size": 57534
+  },
+  {
+    "path": "/assets/match_home_goal_anim.pag",
+    "name": "match_home_goal_anim.pag",
+    "ext": ".pag",
+    "size": 532760
+  },
+  {
+    "path": "/assets/super_red_packet.pag",
+    "name": "super_red_packet.pag",
+    "ext": ".pag",
+    "size": 216338
+  },
+  {
+    "path": "/assets/avatar_matching.pag",
+    "name": "avatar_matching.pag",
+    "ext": ".pag",
+    "size": 26064
+  },
+  {
+    "path": "/assets/PK_dialog_bg_wave.pag",
+    "name": "PK_dialog_bg_wave.pag",
+    "ext": ".pag",
+    "size": 464
+  },
+  {
+    "path": "/assets/crit_moment_light.pag",
+    "name": "crit_moment_light.pag",
+    "ext": ".pag",
+    "size": 1431
+  },
+  {
+    "path": "/assets/Party.json",
+    "name": "Party.json",
+    "ext": ".json",
+    "size": 10888
+  },
+  {
+    "path": "/assets/match_home_own_goal_anim.pag",
+    "name": "match_home_own_goal_anim.pag",
+    "ext": ".pag",
+    "size": 150223
+  },
+  {
+    "path": "/assets/audio_room_free_seat_guide_1_rtl.pag",
+    "name": "audio_room_free_seat_guide_1_rtl.pag",
+    "ext": ".pag",
+    "size": 136208
+  },
+  {
+    "path": "/assets/live_radio_water_anim.pag",
+    "name": "live_radio_water_anim.pag",
+    "ext": ".pag",
+    "size": 543007
+  },
+  {
+    "path": "/assets/match_end_draw_anim.pag",
+    "name": "match_end_draw_anim.pag",
+    "ext": ".pag",
+    "size": 122014
+  },
+  {
+    "path": "/assets/match_start_anim.pag",
+    "name": "match_start_anim.pag",
+    "ext": ".pag",
+    "size": 108027
+  },
+  {
+    "path": "/assets/moment_unlike.pag",
+    "name": "moment_unlike.pag",
+    "ext": ".pag",
+    "size": 2302
+  },
+  {
+    "path": "/assets/lucky_gift_tip_view_bg.pag",
+    "name": "lucky_gift_tip_view_bg.pag",
+    "ext": ".pag",
+    "size": 108208
+  },
+  {
+    "path": "/assets/vip_header_light.pag",
+    "name": "vip_header_light.pag",
+    "ext": ".pag",
+    "size": 385209
+  },
+  {
+    "path": "/assets/indicator_slider.pag",
+    "name": "indicator_slider.pag",
+    "ext": ".pag",
+    "size": 260
+  },
+  {
+    "path": "/assets/audio_room_free_seat_guide_1.pag",
+    "name": "audio_room_free_seat_guide_1.pag",
+    "ext": ".pag",
+    "size": 139864
+  },
+  {
+    "path": "/assets/BebasNeue.otf",
+    "name": "BebasNeue.otf",
+    "ext": ".otf",
+    "size": 48648
+  },
+  {
+    "path": "/assets/game_points_win_anim.pag",
+    "name": "game_points_win_anim.pag",
+    "ext": ".pag",
+    "size": 3905
+  },
+  {
+    "path": "/assets/pk_result_win_bmp_2p.pag",
+    "name": "pk_result_win_bmp_2p.pag",
+    "ext": ".pag",
+    "size": 714389
+  },
+  {
+    "path": "/assets/email_all_domain.json",
+    "name": "email_all_domain.json",
+    "ext": ".json",
+    "size": 9131
+  },
+  {
+    "path": "/assets/pk_result_draw_bmp.pag",
+    "name": "pk_result_draw_bmp.pag",
+    "ext": ".pag",
+    "size": 693369
+  },
+  {
+    "path": "/assets/game_tab_bg.pag",
+    "name": "game_tab_bg.pag",
+    "ext": ".pag",
+    "size": 18746
+  },
+  {
+    "path": "/assets/live_link_dialog_icon.pag",
+    "name": "live_link_dialog_icon.pag",
+    "ext": ".pag",
+    "size": 1357
+  },
+  {
+    "path": "/assets/locate_locale.json",
+    "name": "locate_locale.json",
+    "ext": ".json",
+    "size": 9250
+  },
+  {
+    "path": "/assets/LIVE.json",
+    "name": "LIVE.json",
+    "ext": ".json",
+    "size": 7878
+  },
+  {
+    "path": "/assets/lucky_gift_tip_view_coin_anim.pag",
+    "name": "lucky_gift_tip_view_coin_anim.pag",
+    "ext": ".pag",
+    "size": 13537
+  },
+  {
+    "path": "/assets/license/SenseME.lic",
+    "name": "SenseME.lic",
+    "ext": ".lic",
+    "size": 6498
+  },
+  {
+    "path": "/assets/models/M_SenseME_MouthOcclusion_p_1.4.0.model",
+    "name": "M_SenseME_MouthOcclusion_p_1.4.0.model",
+    "ext": ".model",
+    "size": 276752
+  },
+  {
+    "path": "/assets/models/M_SenseME_Face_Extra_Advanced_Template_p_2.2.1.model",
+    "name": "M_SenseME_Face_Extra_Advanced_Template_p_2.2.1.model",
+    "ext": ".model",
+    "size": 4464912
+  },
+  {
+    "path": "/assets/models/mouth_gaze_mobilenetv2_sim_fp16.mnn",
+    "name": "mouth_gaze_mobilenetv2_sim_fp16.mnn",
+    "ext": ".mnn",
+    "size": 158984
+  },
+  {
+    "path": "/assets/models/M_SenseME_FaceOcclusion_p_1.0.7.1.model",
+    "name": "M_SenseME_FaceOcclusion_p_1.0.7.1.model",
+    "ext": ".model",
+    "size": 624912
+  },
+  {
+    "path": "/assets/models/M_SenseME_Face_Video_Template_p_4.0.0.model",
+    "name": "M_SenseME_Face_Video_Template_p_4.0.0.model",
+    "ext": ".model",
+    "size": 2713872
+  },
+  {
+    "path": "/assets/models/fd-quant.mnn",
+    "name": "fd-quant.mnn",
+    "ext": ".mnn",
+    "size": 316148
+  },
+  {
+    "path": "/assets/models/M_SenseME_Segment_Figure_p_4.14.1.1.model",
+    "name": "M_SenseME_Segment_Figure_p_4.14.1.1.model",
+    "ext": ".model",
+    "size": 676112
+  },
+  {
+    "path": "/assets/models/M_SenseME_Hand_p_7.2.0.model",
+    "name": "M_SenseME_Hand_p_7.2.0.model",
+    "ext": ".model",
+    "size": 2375952
+  },
+  {
+    "path": "/assets/models/blink_mobilenetv2_sim_fp16.mnn",
+    "name": "blink_mobilenetv2_sim_fp16.mnn",
+    "ext": ".mnn",
+    "size": 156928
+  },
+  {
+    "path": "/assets/models/M_SenseME_Segment_Hair_p_4.4.0.model",
+    "name": "M_SenseME_Segment_Hair_p_4.4.0.model",
+    "ext": ".model",
+    "size": 645392
+  },
+  {
+    "path": "/assets/dexopt/baseline.profm",
+    "name": "baseline.profm",
+    "ext": ".profm",
+    "size": 467
+  },
+  {
+    "path": "/assets/dexopt/baseline.prof",
+    "name": "baseline.prof",
+    "ext": ".prof",
+    "size": 5773
+  },
+  {
+    "path": "/assets/whiten/whiten_gif.zip",
+    "name": "whiten_gif.zip",
+    "ext": ".zip",
+    "size": 228452
+  },
+  {
+    "path": "/assets/whiten/whiten_black.zip",
+    "name": "whiten_black.zip",
+    "ext": ".zip",
+    "size": 110340
+  },
+  {
+    "path": "/assets/whiten/whiten_pink.zip",
+    "name": "whiten_pink.zip",
+    "ext": ".zip",
+    "size": 210532
+  },
+  {
+    "path": "/assets/whiten/whiten4.zip",
+    "name": "whiten4.zip",
+    "ext": ".zip",
+    "size": 202261
+  },
+  {
+    "path": "/assets/com/appsflyer/internal/85cbdb71e241e9c4b-",
+    "name": "85cbdb71e241e9c4b-",
+    "ext": "",
+    "size": 13602
+  },
+  {
+    "path": "/assets/com/appsflyer/internal/4c337fab34977e37d-",
+    "name": "4c337fab34977e37d-",
+    "ext": "",
+    "size": 3126
+  },
+  {
+    "path": "/assets/com/appsflyer/internal/abcc32aa48e1938c-",
+    "name": "abcc32aa48e1938c-",
+    "ext": "",
+    "size": 6710
+  },
+  {
+    "path": "/assets/com/appsflyer/internal/1ef4f10b9adfdad9a-",
+    "name": "1ef4f10b9adfdad9a-",
+    "ext": "",
+    "size": 8502
+  }
+]

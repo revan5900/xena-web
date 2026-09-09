@@ -1,0 +1,15 @@
+{
+  "api_http":"http://api.micoworld.net",
+  "api_https":"https://api.micoworld.net:443",
+  "image_origin":"http://image.mobiletosea.com",
+  "image_thumbnail_large":"http://thumbnail-large.mobiletosea.com",
+  "image_thumbnail_middle":"http://thumbnail-middle.mobiletosea.com",
+  "image_thumbnail_small":"http://thumbnail-small.mobiletosea.com",
+  "audio":"http://audio.mobiletosea.com",
+  "video":"http://video.mobiletosea.com",
+  "file":"http://cdn.mobiletosea.com",
+  "event_api":"https://collect.micoworld.net",
+  "web_app":"https://web-app.micoworld.net",
+  "official_url":"https://www.micoworld.net",
+  "sso":[{"ip":"13.230.76.91","port":"443"}]
+}
